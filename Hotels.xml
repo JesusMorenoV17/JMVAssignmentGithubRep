@@ -16,7 +16,7 @@
   </Hotel>
   
   <Hotel Rating="4.3">
-    <Name>Arizona Grand Resort & Spa</Name>
+    <Name>Arizona Grand Resort and Spa</Name>
     <Phone>877-800-4888</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>8000</Number>
@@ -53,7 +53,7 @@
   </Hotel>
 
   <Hotel>
-    <Name>JW Marriott Scottsdale Camelback Inn Resort & Spa</Name>
+    <Name>JW Marriott Scottsdale Camelback Inn Resort and Spa</Name>
     <Phone>480-948-1700</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>5402</Number>
@@ -65,7 +65,7 @@
   </Hotel>
 
   <Hotel Rating="4.3">
-    <Name>The Scott Resort & Spa</Name>
+    <Name>The Scott Resort and Spa</Name>
     <Phone>800-528-7867</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>4925</Number>
