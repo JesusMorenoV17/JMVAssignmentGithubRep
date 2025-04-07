@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ID:1221389936 -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
@@ -29,5 +28,4 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-
 </xs:schema>
