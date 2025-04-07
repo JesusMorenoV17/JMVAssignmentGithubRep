@@ -13,9 +13,11 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+  
   <Hotel Rating="4.3">
     <Name>Arizona Grand Resort and Spa</Name>
-    <Address NearstAirport="Sky Harbor">
+    <Address>
+      <NearstAirport>Sky Harbor</NearstAirport>
       <Number>8000</Number>
       <Street>South Arizona Grand E</Street>
       <City>Phoenix</City>
@@ -23,11 +25,13 @@
       <Zip>85044</Zip>
     </Address>
   </Hotel>
+  
   <Hotel>
     <Name>Hotel Congress</Name>
     <Name>Historic Hotel Congress</Name>
     <Phone>520-622-8848</Phone>
-    <Address NearstAirport="Tucson International Airport">
+    <Address>
+      <NearstAirport>Tucson International Airport</NearstAirport>
       <Number>311</Number>
       <Street>E Congress St</Street>
       <City>Tucson</City>
@@ -35,11 +39,13 @@
       <Zip>85701</Zip>
     </Address>
   </Hotel>
+  
   <Hotel Rating="4.5">
     <Name>Enchantment Resort</Name>
     <Phone>928-282-2900</Phone>
     <Phone>888-250-1699</Phone>
-    <Address NearstAirport="Flagstaff Pulliam Airport">
+    <Address>
+      <NearstAirport>Flagstaff Pulliam Airport</NearstAirport>
       <Number>525</Number>
       <Street>Boynton Canyon Rd</Street>
       <City>Sedona</City>
@@ -47,20 +53,25 @@
       <Zip>86336</Zip>
     </Address>
   </Hotel>
+  
   <Hotel>
     <Name>JW Marriott Scottsdale Camelback Inn Resort and Spa</Name>
     <Phone>480-948-1700</Phone>
-    <Address NearstAirport="Sky Harbor">
+    <Address>
+      <NearstAirport>Sky Harbor</NearstAirport>
       <Number>5402</Number>
       <Street>E Lincoln Dr</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85253</Zip>
+    </Address>
   </Hotel>
+  
   <Hotel Rating="4.3">
     <Name>The Scott Resort and Spa</Name>
     <Phone>800-528-7867</Phone>
-    <Address NearstAirport="Sky Harbor">
+    <Address>
+      <NearstAirport>Sky Harbor</NearstAirport>
       <Number>4925</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -68,11 +79,13 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
+  
   <Hotel Rating="4.6">
     <Name>Loews Ventana Canyon Resort</Name>
     <Phone>520-299-2020</Phone>
     <Phone>800-235-6397</Phone>
-    <Address NearstAirport="Tucson International Airport">
+    <Address>
+      <NearstAirport>Tucson International Airport</NearstAirport>
       <Number>7000</Number>
       <Street>N Resort Dr</Street>
       <City>Tucson</City>
@@ -80,10 +93,12 @@
       <Zip>85750</Zip>
     </Address>
   </Hotel>
+  
   <Hotel>
     <Name>El Tovar Hotel</Name>
     <Phone>928-638-2631</Phone>
-    <Address NearstAirport="Flagstaff Pulliam Airport">
+    <Address>
+      <NearstAirport>Flagstaff Pulliam Airport</NearstAirport>
       <Number>1</Number>
       <Street>El Tovar Rd</Street>
       <City>Grand Canyon Village</City>
@@ -91,10 +106,12 @@
       <Zip>86023</Zip>
     </Address>
   </Hotel>
+  
   <Hotel>
     <Name>Little America Hotel Flagstaff</Name>
     <Phone>928-779-7900</Phone>
-    <Address NearstAirport="Flagstaff Pulliam Airport">
+    <Address>
+      <NearstAirport>Flagstaff Pulliam Airport</NearstAirport>
       <Number>2515</Number>
       <Street>E Butler Ave</Street>
       <City>Flagstaff</City>
@@ -102,11 +119,13 @@
       <Zip>86004</Zip>
     </Address>
   </Hotel>
+  
   <Hotel Rating="4.6">
     <Name>L'Auberge de Sedona</Name>
     <Phone>888-791-6742</Phone>
     <Phone>855-905-5745</Phone>
-    <Address NearstAirport="Flagstaff Pulliam Airport">
+    <Address>
+      <NearstAirport>Flagstaff Pulliam Airport</NearstAirport>
       <Number>301</Number>
       <Street>L'Auberge Ln</Street>
       <City>Sedona</City>
