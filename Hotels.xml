@@ -2,7 +2,6 @@
 <!-- ID:1221389936 -->
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
-
 <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -15,7 +14,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
   <Hotel Rating="4.3">
     <Name>Arizona Grand Resort and Spa</Name>
     <Phone>877-800-4888</Phone>
@@ -27,7 +25,6 @@
       <Zip>85044</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Hotel Congress</Name>
     <Phone>520-622-8848</Phone>
@@ -39,7 +36,6 @@
       <Zip>85701</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.5">
     <Name>Enchantment Resort</Name>
     <Phone>928-282-2900</Phone>
@@ -52,7 +48,6 @@
       <Zip>86336</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>JW Marriott Scottsdale Camelback Inn Resort and Spa</Name>
     <Phone>480-948-1700</Phone>
@@ -64,7 +59,6 @@
       <Zip>85253</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.3">
     <Name>The Scott Resort and Spa</Name>
     <Phone>800-528-7867</Phone>
@@ -76,7 +70,6 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.6">
     <Name>Loews Ventana Canyon Resort</Name>
     <Phone>520-299-2020</Phone>
@@ -101,7 +94,6 @@
       <Zip>86023</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Little America Hotel Flagstaff</Name>
     <Phone>928-779-7900</Phone>
@@ -113,7 +105,6 @@
       <Zip>86004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.6">
     <Name>L'Auberge de Sedona</Name>
     <Phone>888-791-6742</Phone>
@@ -126,5 +117,4 @@
       <Zip>86336</Zip>
     </Address>
   </Hotel>
-
 </Hotels>
